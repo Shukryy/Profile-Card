@@ -8,7 +8,7 @@ import { FormsModule } from '@angular/forms';
   styleUrl: './app.component.scss',
 })
 export class AppComponent {
-  name: string = 'Adam Test';
-  age: number = 30;
+  name: string = 'Shukry Lucky';
+  age: number = 24;
   description: string = 'A passionate developer learning Angular';
 }
